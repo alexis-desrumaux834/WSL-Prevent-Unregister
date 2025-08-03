@@ -36,7 +36,7 @@ No PATH changes, no extra files—just safe and native PowerShell scripting.
 Just run this one-liner in a **PowerShell terminal** (you don’t need admin rights):
 
 ```powershell
-irm https://raw.githubusercontent.com/your-username/your-repo/main/install-wsl-protect.ps1 | iex
+irm https://raw.githubusercontent.com/alexis-desrumaux834/WSL-Prevent-Unregister/refs/heads/main/install-wsl-protect.ps1 | iex
 ```
 
 > 🔐 *Note: You may need to allow script execution temporarily with:*
